@@ -504,7 +504,7 @@
       "wood": 0,
       "wortel": 0,
       "language": "es",
-      "lastCommandTime": 1736980308642,
+      "lastCommandTime": 1736981387908,
       "commandCount": 1
     },
     "51992196886@s.whatsapp.net": {
@@ -1018,6 +1018,12 @@
       "wood": 0,
       "wortel": 0,
       "language": "es"
+    },
+    "51907023760@s.whatsapp.net": {
+      "akinator": {},
+      "gameglx": {},
+      "exp": null,
+      "limit": null
     }
   },
   "chats": {
@@ -1102,7 +1108,8 @@
       "expired": 0,
       "language": "es"
     },
-    "status@broadcast": {}
+    "status@broadcast": {},
+    "120363352737958008@g.us": {}
   },
   "stats": {
     "downloader-play.js": {
@@ -1112,10 +1119,10 @@
       "lastSuccess": 1736979219032
     },
     "menus-menu.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1736980308647,
-      "lastSuccess": 1736980308647
+      "total": 5,
+      "success": 5,
+      "last": 1736981387913,
+      "lastSuccess": 1736981387913
     }
   },
   "msgs": {},
